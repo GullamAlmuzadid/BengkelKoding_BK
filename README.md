@@ -79,5 +79,5 @@ composer update
 - **Pelaporan**: Laporan data pasien dan aktivitas klinik.
 
 ---
-**Developed by [Nama Pengembang atau Tim Anda]** 🚀
+**Developed by [Gullam Almuzadid - A11.2021.13743]** 🚀
 
